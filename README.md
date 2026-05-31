@@ -169,9 +169,7 @@ Built a video transcription and QA website using **MiniLM** and **RoBERTa**, ena
 </td>
 </tr>
 <tr>
-  
 <td width="50%" valign="top">
-
 
 ### 🎯 ADHD Task Manager
 **Collaborative Project**
@@ -183,11 +181,19 @@ Contributed to an AI-powered task management application designed for users with
 🔗 [View Repository](https://github.com/apurvab15/adhd-task-manager)
 
 </td>
+<td width="50%" valign="top">
+
+### 🦯 Hardware Project — Ultrasonic Range Detector Stick
+**Mar 2022 – Jun 2022 · Modern College of Engineering**
+
+Designed a **hardware-software system** using **Arduino** and ultrasonic sensors to help visually impaired individuals detect obstacles up to 20ft in real time.
+
+`Arduino` `Embedded Systems` `Hardware` `Assistive Tech`
+
+</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-
 
 ### 🎙️ Desktop Voice Assistant (DVA)
 **Jul 2021 – Sep 2021 · Modern College of Engineering**
@@ -197,22 +203,12 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 `Speech Recognition` `NLP` `Python` `Automation`
 
 </td>
+<td width="50%" valign="top"></td>
 </tr>
 </table>
 
 ---
-<td width="50%" valign="top">
 
-### 🦯 Hardware project - Ultrasonic Range Detector Stick
-**Mar 2022 – Jun 2022 · Modern College of Engineering**
-
-Designed a **hardware-software system** using **Arduino** and ultrasonic sensors to help visually impaired individuals detect obstacles up to 20ft in real time.
-
-`Arduino` `Embedded Systems` `Hardware` `Assistive Tech`
-
-</td>
-<td width="50%" valign="top">
-  
 ## 💼 Experience Highlights
 
 | Role | Company | Period | Key Achievement |
