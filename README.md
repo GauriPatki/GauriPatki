@@ -151,10 +151,10 @@ Built a **two-stage stochastic linear programming** model in **GAMSPy** to optim
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Video Query Assistant
+### 🎬 Video Query Assistant & Smart Script Solutions
 **Jun 2023 – Sep 2024 · Modern College of Engineering**
 
-Built a video transcription and QA website using **MiniLM** and **RoBERTa**, enabling users to ask natural language questions and retrieve answers with timestamps.
+Built a video transcription and QA website using **MiniLM** and **RoBERTa**, enabling users to ask natural language questions and retrieve answers with timestamps. The system and its underlying research were published in two peer-reviewed international journals.
 
 | Metric | Score |
 |--------|-------|
@@ -164,22 +164,17 @@ Built a video transcription and QA website using **MiniLM** and **RoBERTa**, ena
 
 `RoBERTa` `MiniLM` `NLP` `Transformers` `Python`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📝 Smart Script Solutions
-**Published Research · IJRAR & IJCRT**
+🔗 [View Repository](https://github.com/GauriPatki/Smart-Script-Solutions) &nbsp;|&nbsp; 📄 [IJRAR Paper](https://www.ijrar.org/papers/IJRAR24B2613.pdf) &nbsp;|&nbsp; 📄 [IJCRT Paper](https://www.ijcrt.org/papers/IJCRT2404318.pdf)
 
 Published research and review papers on intelligent scripting solutions. Peer-reviewed and published in two international journals — IJRAR and IJCRT.
 
 `Research` `NLP` `AI` `Published`
 
-🔗 [View Repository](https://github.com/GauriPatki/Smart-Script-Solutions)
-
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
+
 
 ### 🎯 ADHD Task Manager
 **Collaborative Project**
@@ -195,15 +190,7 @@ Contributed to an AI-powered task management application designed for users with
 <tr>
 <td width="50%" valign="top">
 
-### 🦯 Ultrasonic Range Detector Stick
-**Mar 2022 – Jun 2022 · Modern College of Engineering**
 
-Designed a **hardware-software system** using **Arduino** and ultrasonic sensors to help visually impaired individuals detect obstacles up to 20ft in real time.
-
-`Arduino` `Embedded Systems` `Hardware` `Assistive Tech`
-
-</td>
-<td width="50%" valign="top">
 
 ### 🎙️ Desktop Voice Assistant (DVA)
 **Jul 2021 – Sep 2021 · Modern College of Engineering**
@@ -218,6 +205,16 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 
 ---
 
+### 🦯 Hardware project - Ultrasonic Range Detector Stick
+**Mar 2022 – Jun 2022 · Modern College of Engineering**
+
+Designed a **hardware-software system** using **Arduino** and ultrasonic sensors to help visually impaired individuals detect obstacles up to 20ft in real time.
+
+`Arduino` `Embedded Systems` `Hardware` `Assistive Tech`
+
+</td>
+<td width="50%" valign="top">
+  
 ## 💼 Experience Highlights
 
 | Role | Company | Period | Key Achievement |
