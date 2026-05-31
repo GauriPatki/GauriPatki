@@ -151,7 +151,7 @@ Built a **two-stage stochastic linear programming** model in **GAMSPy** to optim
 </td>
 <td width="50%" valign="top">
 
-### 🎬 Video Query Assistant & Smart Script Solutions
+### 🎬 Video Query Assistant: Smart Script Solutions
 **Jun 2023 – Sep 2024 · Modern College of Engineering**
 
 Built a video transcription and QA website using **MiniLM** and **RoBERTa**, enabling users to ask natural language questions and retrieve answers with timestamps. The system and its underlying research were published in two peer-reviewed international journals.
@@ -166,13 +166,10 @@ Built a video transcription and QA website using **MiniLM** and **RoBERTa**, ena
 
 🔗 [View Repository](https://github.com/GauriPatki/Smart-Script-Solutions) &nbsp;|&nbsp; 📄 [IJRAR Paper](https://www.ijrar.org/papers/IJRAR24B2613.pdf) &nbsp;|&nbsp; 📄 [IJCRT Paper](https://www.ijcrt.org/papers/IJCRT2404318.pdf)
 
-Published research and review papers on intelligent scripting solutions. Peer-reviewed and published in two international journals — IJRAR and IJCRT.
-
-`Research` `NLP` `AI` `Published`
-
 </td>
 </tr>
 <tr>
+  
 <td width="50%" valign="top">
 
 
@@ -204,6 +201,7 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 </table>
 
 ---
+<td width="50%" valign="top">
 
 ### 🦯 Hardware project - Ultrasonic Range Detector Stick
 **Mar 2022 – Jun 2022 · Modern College of Engineering**
