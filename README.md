@@ -209,13 +209,13 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 
 ---
 
-## 💼 Experience Highlights
 
+## 💼 Experience Highlights
 | Role | Company | Period | Key Achievement |
 |------|---------|--------|----------------|
-| Data Analytics Participant | Excelerate | Jul–Aug 2025 | Integrated 6 datasets (100K+ records); built KPI dashboards in Looker Studio |
-| ML & BI Intern | YBI Foundation | Feb–Mar 2023 | Improved model R² from 0.28 → 0.42 using ensemble methods |
-| DS Intern | Oasis Infobyte | Feb–Mar 2023 | 94% accuracy in spam detection via preprocessing & model tuning |
+| ML Developer (Project Collaboration) | AI Adventures LLP | Jul 2023–Mar 2024 | Built NLP-powered web app (Smart Script Solutions) achieving 92% transcription & 85% summarization accuracy; published in 2 peer-reviewed journals |
+| ML & BI Intern | YBI Foundation | Feb–Mar 2023 | Improved model R² from 0.28 → 0.42 using ensemble methods (50% gain over baseline) |
+| DS Intern | Oasis Infobyte | Feb–Mar 2023 | Achieved R² of 0.59 on sales prediction; geospatial unemployment analysis across 28 Indian states |
 | ML Intern | Internship Studio | Jan–Feb 2022 | 70–95% prediction accuracy across classification, regression & clustering tasks |
 
 ---
