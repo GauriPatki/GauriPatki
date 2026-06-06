@@ -223,14 +223,6 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=GauriPatki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriPatki&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=GauriPatki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
