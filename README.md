@@ -223,6 +223,15 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 ## 📈 GitHub Stats
 <div align="center">
 
+
+<div align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=GauriPatki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriPatki&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+<div align="center">
+  
+<img src="https://komarev.com/ghpvc/?username=GauriPatki&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</div>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
