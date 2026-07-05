@@ -205,6 +205,20 @@ Developed a voice assistant integrating **speech recognition** and **NLP** to ex
 </td>
 <td width="50%" valign="top"></td>
 </tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 Movie Ticket Booking System
+**Jul 2021 – Sep 2021 · Modern College of Engineering**
+
+Developed a movie ticket booking system using Python with a **Tkinter** frontend for an interactive user interface. Integrated **MySQL Workbench** for backend database operations, enabling users to book, update, and delete tickets seamlessly. Ensured efficient data management and smooth user experience through **real-time database updates.**
+
+`MySQL` `DBMS` `Python` `CRUD Operation`
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ---
