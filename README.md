@@ -193,32 +193,32 @@ Designed a **hardware-software system** using **Arduino** and ultrasonic sensors
 </td>
 </tr>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🎙️ Desktop Voice Assistant (DVA)
 **Jul 2021 – Sep 2021 · Modern College of Engineering**
 
-Developed a voice assistant integrating **speech recognition** and **NLP** to execute tasks hands-free, achieving **95–98% accuracy** across task categories.
+Developed a voice assistant using **speech recognition** and **NLP** to automate everyday tasks with **95–98% accuracy**.
 
 `Speech Recognition` `NLP` `Python` `Automation`
 
 </td>
-<td width="50%" valign="top"></td>
-</tr>
 
-<tr>
 <td width="50%" valign="top">
 
 ### 🎬 Movie Ticket Booking System
 **Jul 2021 – Sep 2021 · Modern College of Engineering**
 
-Developed a movie ticket booking system using Python with a **Tkinter** frontend for an interactive user interface. Integrated **MySQL Workbench** for backend database operations, enabling users to book, update, and delete tickets seamlessly. Ensured efficient data management and smooth user experience through **real-time database updates.**
+Built a movie ticket booking application with a **Tkinter** GUI and **MySQL** backend supporting ticket booking, updating, and cancellation through real-time database operations.
 
-`MySQL` `DBMS` `Python` `CRUD Operation`
+`MySQL` `DBMS` `Python` `CRUD`
+
+🔗 [View Repository](https://github.com/GauriPatki/Movie-ticket-booking-system)
 
 </td>
-<td width="50%" valign="top"></td>
-</tr>
+
+
 </table>
 
 ---
