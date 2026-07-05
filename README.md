@@ -168,30 +168,7 @@ Built a video transcription and QA website using **MiniLM** and **RoBERTa**, ena
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
 
-### 🎯 ADHD Task Manager
-**Collaborative Project**
-
-Contributed to an AI-powered task management application designed for users with ADHD, combining smart prioritization with accessible UX.
-
-`AI` `Productivity` `Python` `Collaborative`
-
-🔗 [View Repository](https://github.com/apurvab15/adhd-task-manager)
-
-</td>
-<td width="50%" valign="top">
-
-### 🦯 Hardware Project — Ultrasonic Range Detector Stick
-**Mar 2022 – Jun 2022 · Modern College of Engineering**
-
-Designed a **hardware-software system** using **Arduino** and ultrasonic sensors to help visually impaired individuals detect obstacles up to 20ft in real time.
-
-`Arduino` `Embedded Systems` `Hardware` `Assistive Tech`
-
-</td>
-</tr>
 <tr>
 
 <td width="50%" valign="top">
@@ -217,7 +194,30 @@ Built a movie ticket booking application with a **Tkinter** GUI and **MySQL** ba
 🔗 [View Repository](https://github.com/GauriPatki/Movie-ticket-booking-system)
 
 </td>
+<tr>
+<td width="50%" valign="top">
 
+### 🎯 ADHD Task Manager
+**Collaborative Project**
+
+Contributed to an AI-powered task management application designed for users with ADHD, combining smart prioritization with accessible UX.
+
+`AI` `Productivity` `Python` `Collaborative`
+
+🔗 [View Repository](https://github.com/apurvab15/adhd-task-manager)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦯 Hardware Project — Ultrasonic Range Detector Stick
+**Mar 2022 – Jun 2022 · Modern College of Engineering**
+
+Designed a **hardware-software system** using **Arduino** and ultrasonic sensors to help visually impaired individuals detect obstacles up to 20ft in real time.
+
+`Arduino` `Embedded Systems` `Hardware` `Assistive Tech`
+
+</td>
+</tr>
 
 </table>
 
