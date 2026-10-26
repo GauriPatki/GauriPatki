@@ -158,9 +158,8 @@ Built a video transcription and QA website using **MiniLM** and **RoBERTa**, ena
 
 | Metric | Score |
 |--------|-------|
-| Transcription accuracy | 92% |
-| Summarization accuracy | 85% |
-| Answer location accuracy | 80% |
+| QA accuracy | 86% |
+| Summary accuracy | 94% |
 
 `RoBERTa` `MiniLM` `NLP` `Transformers` `Python`
 
