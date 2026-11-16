@@ -243,9 +243,13 @@ Designed a **hardware-software system** using **Arduino** and ultrasonic sensors
 
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GauriPatki&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=GauriPatki&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://raw.githubusercontent.com/GauriPatki/GauriPatki/output/github-contribution-grid-snake.svg" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GauriPatki&theme=tokyo-night&hide_border=true" width="100%" />
+
 
 </div>
+
 ---
 
 ## 🎓 Education
