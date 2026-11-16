@@ -233,15 +233,10 @@ Designed a **hardware-software system** using **Arduino** and ultrasonic sensors
 
 ---
 
-
-## 📈 GitHub Activity
+## 📈 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GauriPatki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauriPatki&layout=compact&theme=tokyonight&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=GauriPatki&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
