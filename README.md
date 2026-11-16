@@ -108,7 +108,7 @@ Developed a time-aware dense retrieval system using **Contriever** fine-tuned wi
 
 `Transformers` `RAG` `Contriever` `Information Retrieval` `NLP`
 
-🔗 [View Repository](https://github.com/Tydos/Temporal-Retrieval-Augmented-Generation)
+🔗 [View Repository](https://github.com/GauriPatki/Temporal-Retrieval-Augmented-Generation.git)
 
 </td>
 <td width="50%" valign="top">
